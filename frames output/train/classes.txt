@@ -1,0 +1,4 @@
+plas 1
+glass 1
+metal 1
+metal 2
